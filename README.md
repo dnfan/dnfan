@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I am Dezen, currently a student studying Information Technology at PolyU.
 <!--
 **dnfan/dnfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
